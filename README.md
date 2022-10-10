@@ -1,10 +1,8 @@
-# Perfil Github - Tips
-
 # Cómo crear un perfil de GitHub efectivo:
 
 Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el CV + el **perfil de GitHub**, por lo que tener un buen perfil te puede dar muchas ventajas a la hora de ser considerado para un trabajo.
 
-## Tips que les pueden ayudar:
+## 💡 Tips que les pueden ayudar:
 
 ### Llenar datos básicos
 - Información profesional y de contacto
@@ -67,6 +65,11 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - ejemplo: [Actualizar README con los últimos videos de Youtube](https://github.com/ymulenll/ymulenll/blob/master/.github/workflows/update-readme.yml)
 ### Contribuir al *Open Source*
 - Pueden comenzar con cosas pequeñas como corregir errores en la documentación
+
+## 📫 Mis redes:
+- LinkedIn: https://linkedin.com/in/yoelvismulen
+- Twitter: https://twitter.com/ymulenll
+- YouTube: https://www.youtube.com/yoelvism
 
 ---
 ¡Que tengan muchos éxitos en su carrera profesional 🎉!
