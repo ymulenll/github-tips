@@ -7,6 +7,7 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 ### Llenar datos básicos
 - Información profesional y de contacto
 - Foto profesional
+
 ### Crear repositorio de perfil
 - Importante para SEO (es lo que aparece como descripción en los motores de búsqueda)
         ![google search](https://user-images.githubusercontent.com/3630913/194914506-2745a8b7-622b-45b3-8637-8b840271fcf8.png)
@@ -57,15 +58,19 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - Buenos prácticas al hacer *commits*:
     - *Commits* pequeños y enfocados en un cambio o una tarea específica
     - Comentarios en imperativo
-## Darle estrella (*like*) a proyectos, muestra en qué tienes interés
+    
+### Darle estrella ⭐️ (*like*) a proyectos (aprovecha y ponle una estrella a este repo 😁)
 - Con esto se muestra las tecnologías en las que están interesados
 - No hagas *fork* a projectos en los que no trabajas
+
 ### Crear website y alojarlo con GitHub pages
 - [https://pages.github.com/](https://pages.github.com/)
 - [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
+
 ### Pro tip: Automatiza con Actions
 - [https://github.com/features/actions](https://github.com/features/actions)
 - ejemplo: [Actualizar README con los últimos videos de Youtube](https://github.com/ymulenll/ymulenll/blob/master/.github/workflows/update-readme.yml)
+
 ### Contribuir al *Open Source*
 - Pueden comenzar con cosas pequeñas como corregir errores en la documentación
 
