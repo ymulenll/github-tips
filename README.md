@@ -9,7 +9,7 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - Foto profesional
 
 ### Crear repositorio de perfil
-- Pasos: [Añadir repo con nombre *<username>* y marcar la opción de añadir README.md](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- Pasos: Añadir repo con nombre **\<username\>** y marcar la opción de añadir README.md 👉 [ver documentación](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - Añadir al README.md enlaces a los proyectos más importantes (y hacerles pin)
 - Ponerle personalidad (la descripción del README.md no tiene que ser como un currículum formal)
 - Ejemplos:
@@ -19,7 +19,7 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
     - [https://github.com/anmol098](https://github.com/anmol098)
     - [https://github.com/Prince-Shivaram](https://github.com/Prince-Shivaram)
 - Pueden comenzar generando su README.md usando [esta página web](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- Aprende el lenguaje que se usa para escribir y modificar los arvhivos `.md` [ver documentación](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- Aprende el lenguaje que se usa para escribir y modificar los arvhivos `.md` 👉 [ver documentación](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - Importante para SEO (es lo que aparece como descripción en los motores de búsqueda)
 <img width="400" alt="google search" src="https://user-images.githubusercontent.com/3630913/194914506-2745a8b7-622b-45b3-8637-8b840271fcf8.png">
 
