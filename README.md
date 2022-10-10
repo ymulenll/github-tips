@@ -48,14 +48,14 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
         
 ### *Commit* frecuentes
 <img width="400" alt="commits" src="https://user-images.githubusercontent.com/3630913/194914586-c74ed783-b581-41e2-a3a3-e6d1b29e8e9f.png">
-
-- Activar contribuciones privadas
-<img width="400" alt="private commits" src="https://user-images.githubusercontent.com/3630913/194914608-9d200314-4bae-430a-a0f2-af48c924391f.png">
     
 - Actividad en *commits*, mostrar consistencia es un indicador de tu nivel de interés y disciplina
 - Buenos prácticas al hacer *commits*:
     - *Commits* pequeños y enfocados en un cambio o una tarea específica
     - Comentarios en imperativo
+- Activar contribuciones privadas
+
+<img width="400" alt="private commits" src="https://user-images.githubusercontent.com/3630913/194914608-9d200314-4bae-430a-a0f2-af48c924391f.png">
     
 ### Darle estrella ⭐️ (*like*) a proyectos (aprovecha y ponle una estrella a este repo 😁)
 - Con esto se muestra las tecnologías en las que están interesados
