@@ -73,9 +73,9 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - Pueden comenzar con cosas pequeñas como corregir errores en la documentación
 
 ## 📫 Mis redes:
-- LinkedIn: https://linkedin.com/in/yoelvismulen
-- Twitter: https://twitter.com/ymulenll
-- YouTube: https://www.youtube.com/yoelvism
+- LinkedIn: [https://linkedin.com/in/yoelvismulen](https://linkedin.com/in/yoelvismulen)
+- Twitter: [https://twitter.com/ymulenll](https://twitter.com/ymulenll)
+- YouTube: [https://www.youtube.com/yoelvism](https://www.youtube.com/yoelvism)
 
 ---
 ¡Que tengan muchos éxitos en su carrera profesional 🎉!
