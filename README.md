@@ -31,16 +31,19 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
     - Evitar comentarios redundantes (si haces un código limpio con funciones chicas, por lo general no necesitas muchos comentarios)
     
 ### Añadir metadatos en los proyectos:
-- Título, descripción, tags
+- Título, descripción, etiquetas
+<img align="left" width="200" alt="image" src="https://user-images.githubusercontent.com/3630913/194924660-f31b60b2-8ee6-4262-864b-8de92c7982e6.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/3630913/194924974-2ef1757f-4e73-447e-96bc-0d86476b2677.png">
+
     
 ### Añadir README.md en **todos** los proyectos:
 - Incluir:
     - Propósito y casos de uso de tu proyecto
     - Instrucciones de instalación (si es necesario)
     - Demo: screenshots, gifs y/o website (github pages, netlify)
-- Muestra:
-    - la capacidad de comunicación
-    - Interés en invertir en un proyecto por largo tiempo
+- Ésto muestra:
+    - La capacidad de comunicación (súper importante)
+    - Interés en trabajar en un proyecto por largo tiempo (disciplina, perseverancia)
         
 ### *Commit* frecuentes
     
