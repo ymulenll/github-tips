@@ -9,8 +9,6 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - Foto profesional
 
 ### Crear repositorio de perfil
-- Importante para SEO (es lo que aparece como descripción en los motores de búsqueda)
-        ![google search](https://user-images.githubusercontent.com/3630913/194914506-2745a8b7-622b-45b3-8637-8b840271fcf8.png)
 - Pasos: [Añadir repo con nombre *<username>* y marcar la opción de añadir README.md](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - Añadir al README.md enlaces a los proyectos más importantes (y hacerles pin)
 - Ponerle personalidad (la descripción del README.md no tiene que ser como un currículum formal)
@@ -22,6 +20,8 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
     - [https://github.com/Prince-Shivaram](https://github.com/Prince-Shivaram)
 - Pueden comenzar generando su README.md usando [esta página web](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - Aprende el lenguaje que se usa para escribir y modificar los arvhivos `.md` [ver documentación](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- Importante para SEO (es lo que aparece como descripción en los motores de búsqueda)
+<img width="400" alt="google search" src="https://user-images.githubusercontent.com/3630913/194914506-2745a8b7-622b-45b3-8637-8b840271fcf8.png">
 
 ### Subir **todos** tus proyectos:
 - Muestra la forma en que organizas los proyectos (estructura de archivos) y tu estilo de código
@@ -47,12 +47,10 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
     - Interés en trabajar en un proyecto por largo tiempo (disciplina, perseverancia)
         
 ### *Commit* frecuentes
-    
-![commits](https://user-images.githubusercontent.com/3630913/194914586-c74ed783-b581-41e2-a3a3-e6d1b29e8e9f.png)
+<img width="400" alt="commits" src="https://user-images.githubusercontent.com/3630913/194914586-c74ed783-b581-41e2-a3a3-e6d1b29e8e9f.png">
 
 - Activar contribuciones privadas
-    
-![private commits](https://user-images.githubusercontent.com/3630913/194914608-9d200314-4bae-430a-a0f2-af48c924391f.png)
+<img width="400" alt="private commits" src="https://user-images.githubusercontent.com/3630913/194914608-9d200314-4bae-430a-a0f2-af48c924391f.png">
     
 - Actividad en *commits*, mostrar consistencia es un indicador de tu nivel de interés y disciplina
 - Buenos prácticas al hacer *commits*:
