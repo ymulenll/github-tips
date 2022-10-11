@@ -34,9 +34,9 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 ### Añadir metadatos en los proyectos:
 - Descripción, sitio web, etiquetas
 <img align="left" width="200" alt="image" src="https://user-images.githubusercontent.com/3630913/194924660-f31b60b2-8ee6-4262-864b-8de92c7982e6.png">
+
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/3630913/194924974-2ef1757f-4e73-447e-96bc-0d86476b2677.png">
 
-    
 ### Añadir README.md en **todos** los proyectos:
 - Incluir:
     - Propósito y casos de uso de tu proyecto
