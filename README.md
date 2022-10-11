@@ -62,11 +62,11 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - No hagas *fork* a projectos en los que no trabajas
 
 ### Crear website y alojarlo con GitHub pages
-- [https://pages.github.com/](https://pages.github.com/)
-- [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
+- [Crear página principal](https://pages.github.com/)
+- [Alojar cualquier repositorio existente](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
 ### Pro tip: Automatiza con Actions
-- [https://github.com/features/actions](https://github.com/features/actions)
+- 👉 [ver documentación](https://github.com/features/actions)
 - ejemplo: [Actualizar README con los últimos videos de Youtube](https://github.com/ymulenll/ymulenll/blob/master/.github/workflows/update-readme.yml)
 
 ### Contribuir al *Open Source*
