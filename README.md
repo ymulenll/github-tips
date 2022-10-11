@@ -9,7 +9,7 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
 - Foto profesional
 
 ### Crear repositorio de perfil
-- Pasos: Añadir repo con nombre **\<username\>** y marcar la opción de añadir README.md 👉 [ver documentación](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- Pasos: Añadir repo con nombre `<username>` y marcar la opción de añadir README.md 👉 [ver documentación](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - Añadir al README.md enlaces a los proyectos más importantes (y hacerles pin)
 - Ponerle personalidad (la descripción del README.md no tiene que ser como un currículum formal)
 - Ejemplos:
