@@ -42,7 +42,7 @@ Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el
     - Propósito y casos de uso de tu proyecto
     - Instrucciones de instalación (si es necesario)
     - Demo: screenshots, gifs y/o website (github pages, netlify)
-- Ésto muestra:
+- Esto muestra:
     - La capacidad de comunicación (súper importante)
     - Interés en trabajar en un proyecto por largo tiempo (disciplina, perseverancia)
         
