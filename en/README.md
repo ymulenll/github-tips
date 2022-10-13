@@ -21,6 +21,7 @@ Recruiters or **technical interviewers** usually review the CV + the **GitHub pr
 - You can start your README.md using [this webpage](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - Learn the language used to write and modify `.md` files 👉 [see documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - Important for SEO (it is what appears as a description in search engines)
+
 <img width="400" alt="google search" src="https://user-images.githubusercontent.com/3630913/194914506-2745a8b7-622b-45b3-8637-8b840271fcf8.png">
 
 ### Upload **all** your projects:
