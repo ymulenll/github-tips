@@ -1,3 +1,5 @@
+[Versión en Español](/README.md)
+
 # How to create an effective GitHub profile:
 
 Recruiters or **technical interviewers** usually review the CV + the **GitHub profile**, so having a good profile can give you many advantages when it comes to being considered for a job.
