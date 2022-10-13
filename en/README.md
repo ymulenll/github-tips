@@ -1,4 +1,4 @@
-[Versión en Español](/README.md)
+[Ver versión en Español](../README.md)
 
 # How to create an effective GitHub profile:
 
