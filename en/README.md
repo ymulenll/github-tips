@@ -4,12 +4,12 @@ Recruiters or **technical interviewers** usually review the CV + the **GitHub pr
 
 ## 💡 Tips that can help you:
 
-### Fill the basic data
+### Fill out the basic data
 - Professional and contact information
 - Photo
 
 ### Create profile repository
-- Steps: Add repo with name `<username>` and check the option to add README.md 👉 [see documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- Steps: Add repo with name `<username>` and check off the option to add README.md 👉 [see documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - Add to the README.md links to the most important projects (and pin them)
 - Give it personality (the README.md description doesn't have to be like a formal resume)
 - Examples:
@@ -24,8 +24,8 @@ Recruiters or **technical interviewers** usually review the CV + the **GitHub pr
 <img width="400" alt="google search" src="https://user-images.githubusercontent.com/3630913/194914506-2745a8b7-622b-45b3-8637-8b840271fcf8.png">
 
 ### Upload **all** your projects:
-- Shows the way you organize projects (file structure) and your code style
-- Clean code tips (clean code)
+- Shows the way you organize projects (file structure) and your coding style
+- Clean code tips:
     - Readlable variable names
     - Small functions focused on one thing
     - Files with few lines of code and focused on few things (Avoid generic files where you add anything)
@@ -46,18 +46,18 @@ Recruiters or **technical interviewers** usually review the CV + the **GitHub pr
     - The ability to communicate (super important)
     - Interest in working on a project for a long time (discipline, perseverance)
         
-### Frequent *Commit*
+### Frequent *Commits*
 <img width="400" alt="commits" src="https://user-images.githubusercontent.com/3630913/194914586-c74ed783-b581-41e2-a3a3-e6d1b29e8e9f.png">
     
 - Activity in *commits*, showing consistency is an indicator of your level of interest and discipline
 - Good practices when doing *commits*:
-    - *Commits* small and focused on a specific change or task
+    - The *Commits* should be small and focused on a specific change or task
     - Comments in imperative
 - Activate private contributions
 
 <img width="400" alt="private commits" src="https://user-images.githubusercontent.com/3630913/194914608-9d200314-4bae-430a-a0f2-af48c924391f.png">
     
-### Star ⭐️ (*like*) projects (strart staring this repo 😁)
+### Star ⭐️ projects (add a star this repo if you wish 😁)
 - This shows the technologies they are interested in
 - Don't *fork* projects you don't work on
 
@@ -67,7 +67,7 @@ Recruiters or **technical interviewers** usually review the CV + the **GitHub pr
 
 ### Pro Tip: Automate with Actions
 - 👉 [see documentation](https://github.com/features/actions)
-- example: [Update README with latest Youtube videos](https://github.com/ymulenll/ymulenll/blob/master/.github/workflows/update-readme.yml)
+- example: [Update README with the latest Youtube videos](https://github.com/ymulenll/ymulenll/blob/master/.github/workflows/update-readme.yml)
 
 ### Contribute to *Open Source*
 - They can start with small things like correcting errors in the documentation
