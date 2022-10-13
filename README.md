@@ -1,3 +1,5 @@
+[English Version](en/README.md)
+
 # Cómo crear un perfil de GitHub efectivo:
 
 Usualmente los reclutadores o encargados de **entrevistas técnicas** revisan el CV + el **perfil de GitHub**, por lo que tener un buen perfil te puede dar muchas ventajas a la hora de ser considerado para un trabajo.
