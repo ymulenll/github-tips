@@ -1,4 +1,4 @@
-[English Version](en/README.md)
+[see english version](en/README.md)
 
 # Cómo crear un perfil de GitHub efectivo:
 
